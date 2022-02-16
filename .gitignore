@@ -1,5 +1,7 @@
 Test.txt
 
-.settings
+# Bin folders
+bin/
 
-*.class
+#other files and folders
+.settings/
